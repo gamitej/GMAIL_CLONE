@@ -1,1 +1,3 @@
-## Currently In Development In ReactJS
+## Currently In Development Mode 
+
+### Tech Stack Used
